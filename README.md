@@ -1,6 +1,6 @@
 # space-parallex
 
-> Parallex Space
+> parallex-space
 
 ## Build Setup
 
