@@ -98,7 +98,7 @@ body {
 }
 
 .background {
-    background: url(static/img/background.1dad875.jpg) no-repeat 110% 100%;
+    background: url(./static/img/background.1dad875.jpg) no-repeat 110% 100%;
     bottom: 96px;
     background-size: cover;
     position: absolute;
@@ -283,11 +283,11 @@ body {
 }
 
 .board.cloud-1 {
-    background-image: url(static/img/board-cloud-1.5e5b8b0.png)
+    background-image: url(./static/img/board-cloud-1.5e5b8b0.png)
 }
 
 .board.cloud-2 {
-    background-image: url(static/img/board-cloud-2.1f5c281.png)
+    background-image: url(./static/img/board-cloud-2.1f5c281.png)
 }
 
 .board.cloud-3 {
@@ -295,7 +295,7 @@ body {
 }
 
 .board.cloud-4 {
-    background-image: url(static/img/board-cloud-4.4457fa9.png)
+    background-image: url(./static/img/board-cloud-4.4457fa9.png)
 }
 
 .swing-1 {
