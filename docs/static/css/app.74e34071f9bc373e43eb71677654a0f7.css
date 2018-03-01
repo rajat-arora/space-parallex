@@ -283,11 +283,11 @@ body {
 }
 
 .board.cloud-1 {
-    background-image: url(/static/img/board-cloud-1.5e5b8b0.png)
+    background-image: url(./../static/img/board-cloud-1.5e5b8b0.png)
 }
 
 .board.cloud-2 {
-    background-image: url(/static/img/board-cloud-2.1f5c281.png)
+    background-image: url(./../static/img/board-cloud-2.1f5c281.png)
 }
 
 .board.cloud-3 {
