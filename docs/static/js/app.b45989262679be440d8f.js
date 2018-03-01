@@ -280,7 +280,7 @@ webpackJsonp([0], {
         a.exports = A.p + "./../space-parallex/static/img/space-ship.bf4b971.png"
     },
     diih: function (a, t, A) {
-        a.exports = A.p + "./../img/stars.6d05338.png"
+        a.exports = A.p + "./../space-parallex/static/img/stars.6d05338.png"
     },
     "y/w8": function (a, t) {}
 }, ["NHnr"]);
